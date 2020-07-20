@@ -14899,3 +14899,19 @@ export const data = {
   }
   ],
 }
+,{
+    id: uuidv4(),
+    name: "Syed Imran",
+    img: "",
+    links: {
+      website: "",
+      linkedin: "https://www.linkedin.com/in/syed-imran-a89691183",
+      github: ""
+    },
+    jobTitle: "software developer, data science",
+    location: {
+      city: "Banglore",
+      state: "karnataka",
+      country: "India"
+    }
+  }
